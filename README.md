@@ -15,7 +15,7 @@ Esse APP consome a API publica dispobilizada pelo site https://economia.awesomea
 
 ## Imagens
 
-### Quotation
+### Cotação
 <img src="https://github.com/NetoBatista/CotacaoMoedas/blob/main/examples/quotation.jpeg?raw=true" width="200px">
 
 ### Widget 
@@ -35,11 +35,11 @@ Esse APP consome a API publica dispobilizada pelo site https://economia.awesomea
 # Para rodar o projeto
 - O projeto está configurado para ser executado sem a necessidade de alterar parametros e urls no entento,  irei descrever o que pode ser alterado caso não seja executado da forma convencional
 
-## Configuracao mobile
+## Configuração mobile
 - A url de base deve ser ajustada para o ip/dns que desejar 
     - Essa url pode ser encontrada em **Ocurrence.java** e **application_controller.dart**
 
-## Configuracao API
+## Configuração API
 - As variáveis de ambiente devem ser ajustadas para a sua preferencia
     - **ASPNETCORE_URLS** - url de saida da aplicacao 
     - **PATH_COIN_JSON** - caminho onde se apresenta todos os dados das moedas
