@@ -16,19 +16,19 @@ Esse APP consome a API publica dispobilizada pelo site https://economia.awesomea
 ## Imagens
 
 ### Quotation
-<img src="https://github.com/NetoBatista/CotacaoMoedas/blob/master/examples/quotation.jpeg" width="500px">
+<img src="https://github.com/NetoBatista/CotacaoMoedas/blob/main/examples/quotation.jpeg?raw=true" width="200px">
 
 ### Widget 
-<img src="https://github.com/NetoBatista/CotacaoMoedas/blob/master/examples/widget.jpeg" width="500px">
+<img src="https://github.com/NetoBatista/CotacaoMoedas/blob/main/examples/widget.jpeg" width="200px">
 
 ### Sequencial
-<img src="https://github.com/NetoBatista/CotacaoMoedas/blob/master/examples/sequential.jpeg" width="500px">
+<img src="https://github.com/NetoBatista/CotacaoMoedas/blob/main/examples/sequential.jpeg" width="200px">
 
 ### Sobre
-<img src="https://github.com/NetoBatista/CotacaoMoedas/blob/master/examples/about.jpeg" width="500px">
+<img src="https://github.com/NetoBatista/CotacaoMoedas/blob/main/examples/about.jpeg" width="200px">
 
 ### Fechamento
-<img src="https://github.com/NetoBatista/CotacaoMoedas/blob/master/examples/closing.jpeg" width="500px">
+<img src="https://github.com/NetoBatista/CotacaoMoedas/blob/main/examples/closing.jpeg" width="200px">
 
 
 
