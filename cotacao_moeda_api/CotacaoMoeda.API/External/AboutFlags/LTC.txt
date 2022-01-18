@@ -1,0 +1,9 @@
+Litecoin (símbolo: Ł; abrev: LTC) é uma criptomoeda sustentada por uma rede peer-to-peer e um projeto de software livre lançado sob a licença MIT. É inspirada e quase tecnicamente semelhante a Bitcoin (BTC). A criação e transferência de Litecoin está baseada num protocolo de criptografia de código aberto e não é gerida por uma autoridade central. Os desenvolvedores de Litecoin pretendem tentar melhorar Bitcoin e oferecem três diferenças fundamentais.
+
+O Litecoin foi fundado por Charlie Lee em dia 7 de outubro de 2011.
+
+Em primeiro lugar, a rede Litecoin processa um bloco cada 2,5 minutos, em vez de cada 10 minutos como é o caso do bitcoin.
+
+Segundo, a rede Litecoin irá produzir 84 milhões de litecoins, o que representa quatro vezes mais unidades do que a rede Bitcoin.
+
+Por último, Litecoin utiliza a função scrypt no seu algoritmo de provas de trabalho: uma função sequencial de memória rígida que foi pensada inicialmente por Colin Percival. Esta função tem como objetivo prevenir que a mineração em GPU, FPGA e ASIC tenha uma vantagem significativa sobre a mineração com CPU, embora atualmente a mineração em GPU seja 10 vezes mais eficiente do que a mineração em CPU. Cada litecoin é subdivisível em 100.000.000 unidades menores, definidas por oito casas decimais.

@@ -1,0 +1,13 @@
+Ethereum é uma plataforma descentralizada capaz de executar contratos inteligentes e aplicações descentralizadas usando a tecnologia blockchain: São aplicações que funcionam exatamente como programadas sem qualquer possibilidade de censura, fraude ou interferência de terceiros, isso porque o contrato é imutável. Ele possui uma máquina virtual descentralizada Turing completude, a Ethereum Virtual Machine (EVM), que pode executar scripts usando uma rede internacional de nós públicos.
+
+O Ethereum foi fundado por Vitalik Buterin em janeiro de 2014, e formalmente apresentado para a comunidade na forma de um white paper. A definição formal da Virtual Machine do Ethereum (EVM) foi escrito por Gavin Wood.
+
+O Ethereum foi financiado como um projeto de crowdfunding, sendo o terceiro maior projeto já financiado desta forma na história, e foi lançado em 30 de julho de 2015.
+
+Em 2016 ocorreu um fork no Ethereum e seu blockchain foi dividido em dois graças ao colapso do projeto The DAO, e com isso nasceu o Ethereum Classic.
+
+O Ethereum utiliza a tecnologia blockchain que é capaz de armazenar registros de transações num arquivo que é uma espécie de planilha pública, distribuída e de segurança garantida por criptografia. As transações publicadas no blockchain são verificadas e validadas pelos próprios usuários num processo conhecido como mineração que ocorre via execução de códigos de natureza criptográfica, sendo assim, o sistema pode funcionar num protocolo distribuído recompensando seus usuários pelo poder computacional empregado por eles. Contratos inteligentes "assinados" no blockchain do Ethereum e a mineração são pagos em ether, o combustível da plataforma.
+
+Porém, o ponto que torna o Ethereum diferente das altcoins em geral e o diferencial da moeda digital mais difundida (o bitcoin), é que o Ethereum visa levar a tecnologia do blockchain e os contratos inteligentes para "tudo" que possa ser programado.
+
+O princípio é que toda transação, registro, execução de código distribuído, assinatura de contrato digital, ou qualquer outra aplicação que seja executada na rede do Ethereum seja paga em ether, sendo assim, o Ethereum pode ser considerado um grande computador (de escala planetária) no qual usuários pagam pela quantidade de recurso utilizado.

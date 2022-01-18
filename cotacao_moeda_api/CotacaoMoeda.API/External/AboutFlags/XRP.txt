@@ -1,0 +1,9 @@
+Criado em 2011, o Ripple é um protocolo de pagamento distribuído, que também tem uma moeda nativa de seu sistema, a XRP. Diferente de outros criptoativos, a plataforma suporta em sua rede outros tokens que podem representar moedas tradicionais ou outros bens. O sistema, assim, busca permitir pagamentos seguros e instantâneos da melhor forma possível.
+
+Com isso, a Ripple se aproxima muitos de empresas e, principalmente bancos, ao aceitar outros ativos e facilitar a forma como as transações são feitas nestas instituições. Assim, ele se afasta do ideal de outra moedas digitais, que buscam acabar com a necessidade de usarmos bancos para realizar operações, para ajudar as instituições financeiras a integrarem o mundo dos criptoativos.
+
+Foi criada pelo desenvolvedor Ryan Fugger, o empresário Chris Larsen e o programador Jed McCaleb em 2012. O New York Times descreveu a Ripple como “um cruzamento entre a Western Union e uma troca de moeda sem as altas taxas” porque não é apenas uma moeda, mas também um sistema no qual qualquer moeda, incluindo Bitcoin, pode ser negociada.
+
+“A Ripple conecta bancos, provedores de pagamento, trocas de ativos digitais e empresas através da RippleNet para fornecer uma experiência sem fricção para enviar dinheiro globalmente”, explicaram os criadores em seu lançamento.
+
+Diferente do Bitcoin e Ethereum, na Ripple não há o processo de mineração. Já foram criados 100 bilhões de XRP, sendo que boa parte está em tesouraria com a própria Ripple. Atualmente são pouco mais de 43 bilhões de XRP em circulação.

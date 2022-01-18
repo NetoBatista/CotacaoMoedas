@@ -1,0 +1,187 @@
+﻿[
+  {
+    "name": "GBP-BRL",
+    "description": "Libra Esterlina",
+    "image": "GBP.jpg"
+  },
+  {
+    "name": "NOK-BRL",
+    "description": "Coroa Norueguesa",
+    "image": "NOK.jpg"
+  },
+  {
+    "name": "BTC-BRL",
+    "description": "Bitcoin",
+    "image": "BTC.jpg"
+  },
+  {
+    "name": "NZD-BRL",
+    "description": "Dólar Neozelandês",
+    "image": "NZD.jpg"
+  },
+  {
+    "name": "CHF-BRL",
+    "description": "Franco Suíço",
+    "image": "CHF.jpg"
+  },
+  {
+    "name": "ETH-BRL",
+    "description": "Ethereum",
+    "image": "ETH.jpg"
+  },
+  {
+    "name": "DKK-BRL",
+    "description": "Coroa Dinamarquesa",
+    "image": "DKK.jpg"
+  },
+  {
+    "name": "COP-BRL",
+    "description": "Peso Colombiano",
+    "image": "COP.jpg"
+  },
+  {
+    "name": "RUB-BRL",
+    "description": "Rublo Russo",
+    "image": "RUB.jpg"
+  },
+  {
+    "name": "CNY-BRL",
+    "description": "Yuan Chinês",
+    "image": "CNY.jpg"
+  },
+  {
+    "name": "INR-BRL",
+    "description": "Rúpia Indiana",
+    "image": "INR.jpg"
+  },
+  {
+    "name": "MXN-BRL",
+    "description": "Peso Mexicano",
+    "image": "MXN.jpg"
+  },
+  {
+    "name": "PLN-BRL",
+    "description": "Zlóti Polonês",
+    "image": "PLN.jpg"
+  },
+  {
+    "name": "EUR-BRL",
+    "description": "Euro",
+    "image": "EUR.jpg"
+  },
+  {
+    "name": "SAR-BRL",
+    "description": "Riyal Saudita",
+    "image": "SAR.jpg"
+  },
+  {
+    "name": "TRY-BRL",
+    "description": "Nova Lira Turca",
+    "image": "TRY.jpg"
+  },
+  {
+    "name": "PYG-BRL",
+    "description": "Guarani Paraguaio",
+    "image": "PYG.jpg"
+  },
+  {
+    "name": "AED-BRL",
+    "description": "Dirham dos Emirados",
+    "image": "AED.jpg"
+  },
+  {
+    "name": "HKD-BRL",
+    "description": "Dólar de Hong Kong",
+    "image": "HKD.jpg"
+  },
+  {
+    "name": "XRP-BRL",
+    "description": "XRP",
+    "image": "XRP.jpg"
+  },
+  {
+    "name": "ZAR-BRL",
+    "description": "Rand Sul-Africano",
+    "image": "ZAR.jpg"
+  },
+  {
+    "name": "CAD-BRL",
+    "description": "Dólar Canadense",
+    "image": "CAD.jpg"
+  },
+  {
+    "name": "JPY-BRL",
+    "description": "Iene Japonês",
+    "image": "JPY.jpg"
+  },
+  {
+    "name": "ILS-BRL",
+    "description": "Novo Shekel Israelense",
+    "image": "ILS.jpg"
+  },
+  {
+    "name": "USD-BRL",
+    "description": "Dólar Americano",
+    "image": "USD.jpg"
+  },
+  {
+    "name": "SGD-BRL",
+    "description": "Dólar de Cingapura",
+    "image": "SGD.jpg"
+  },
+  {
+    "name": "SEK-BRL",
+    "description": "Coroa Sueca",
+    "image": "SEK.jpg"
+  },
+  {
+    "name": "THB-BRL",
+    "description": "Baht Tailandês",
+    "image": "THB.jpg"
+  },
+  {
+    "name": "PEN-BRL",
+    "description": "Sol do Peru",
+    "image": "PEN.jpg"
+  },
+  {
+    "name": "DOGE-BRL",
+    "description": "Dogecoin",
+    "image": "DOGE.jpg"
+  },
+  {
+    "name": "TWD-BRL",
+    "description": "Dólar Taiuanês",
+    "image": "TWD.jpg"
+  },
+  {
+    "name": "LTC-BRL",
+    "description": "Litecoin",
+    "image": "LTC.jpg"
+  },
+  {
+    "name": "AUD-BRL",
+    "description": "Dólar Australiano",
+    "image": "AUD.jpg"
+  },
+  {
+    "name": "CLP-BRL",
+    "description": "Peso Chileno",
+    "image": "CLP.jpg"
+  },
+  {
+    "name": "BOB-BRL",
+    "description": "Boliviano",
+    "image": "BOB.jpg"
+  },
+  {
+    "name": "ARS-BRL",
+    "description": "Peso Argentino",
+    "image": "ARS.jpg"
+  },
+  {
+    "name": "UYU-BRL",
+    "description": "Peso Uruguaio",
+    "image": "UYU.jpg"
+  }
+]

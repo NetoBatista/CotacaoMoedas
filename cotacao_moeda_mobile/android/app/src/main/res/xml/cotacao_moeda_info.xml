@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<appwidget-provider
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:initialKeyguardLayout="@layout/moeda_widget"
+    android:initialLayout="@layout/moeda_widget"
+    android:minWidth="400dp"
+    android:minHeight="30dp"
+    android:previewImage="@android:drawable/ic_menu_add"
+    android:resizeMode="horizontal|vertical"
+    android:minResizeWidth="250sp"
+    android:updatePeriodMillis="1800000"
+    android:widgetCategory="home_screen">
+</appwidget-provider>
