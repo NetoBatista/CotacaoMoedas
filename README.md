@@ -4,6 +4,9 @@
 
 Esse APP consome a API publica dispobilizada pelo site https://economia.awesomeapi.com.br
 
+Disponível na playstore 
+https://play.google.com/store/apps/details?id=br.com.nstb.cotacaomoeda&hl=pt_BR&gl=US
+
 ## Features
 1- Conversor do brasil para as moedas estrangeiras. 
 
