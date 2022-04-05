@@ -6,7 +6,7 @@
          additional functionality it is fine to subclass or reimplement
          FlutterApplication and put your custom class here. -->
     <application
-        android:name="io.flutter.app.FlutterApplication"
+        android:name="${applicationName}"
         android:label="Cotação de Moeda"
         android:icon="@mipmap/launcher_icon"
         android:usesCleartextTraffic="true">
@@ -44,8 +44,10 @@
         <meta-data
             android:name="flutterEmbedding"
             android:value="2" />
+
         <meta-data android:name="com.google.android.gms.ads.APPLICATION_ID"
                    android:value="ca-app-pub-7270250356159023~4280305689"/>
+
         <receiver android:name=".CotacaoMoedaWidget">
             <intent-filter>
                 <action android:name="android.appwidget.action.APPWIDGET_UPDATE"/>
@@ -55,6 +57,7 @@
                 android:name="android.appwidget.provider"
                 android:resource="@xml/cotacao_moeda_info"/>
         </receiver>
+        
     </application>
     <uses-permission android:name="android.permission.INTERNET"/>
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>

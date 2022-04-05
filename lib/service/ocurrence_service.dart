@@ -20,7 +20,7 @@ class OcurrenceService implements IOcurrenceService {
     var responseList = <OcurrenceModel>[];
     var jsonResponse = json.decode(response.body);
     for(var _coin in coin.split(",")){
-      var valueCoin = jsonResponse[_coin.replaceAll("-", "")];
+      var valueCoin = jsonResponse[_coin.split("-")[0]];
       responseList.add(OcurrenceModel.fromJson(valueCoin));
     }
 
