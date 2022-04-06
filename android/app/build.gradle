@@ -33,7 +33,7 @@ android {
         applicationId "br.com.nstb.cotacaomoeda"
         minSdkVersion 23
         targetSdkVersion 30
-        versionCode 35
+        versionCode 36
         versionName "2.5.1"
         multiDexEnabled true
     }
