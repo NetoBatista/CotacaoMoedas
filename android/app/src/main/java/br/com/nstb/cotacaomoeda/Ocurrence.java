@@ -130,7 +130,7 @@ public class Ocurrence extends FlutterActivity {
         con.disconnect();
 
         JSONObject jsonObject = new JSONObject(sb.toString());
-        String _coin = coin.split("-")[0];
+        String _coin = coin.replace("-", "");
         JSONObject coinObject = jsonObject.getJSONObject(_coin);
         
         runOnUiThread(() -> {
