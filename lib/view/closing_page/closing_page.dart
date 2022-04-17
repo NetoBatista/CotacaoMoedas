@@ -95,6 +95,7 @@ class _ClosingPageState extends State<ClosingPage> with AutomaticKeepAliveClient
                                         child: ColumnComponent(
                                           children: [
                                             CenterComponent(child: TextComponent(textStyle: TextStyle(fontSize: 16), text:  DateFormat("dd/MM/yyyy HH:mm:ss", "ptBR").format(DateTime.fromMillisecondsSinceEpoch(int.parse(ocurrenceModel.timeStamp) * 1000)))),
+                                            SizedBox(height: 10,),
                                             OcurrenceComponent(_closingPageController.coinSelected as CoinModel,ocurrenceModel),
                                           ],
                                         ));
